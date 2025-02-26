@@ -1,1 +1,2 @@
 # news
+# Berita manado news
